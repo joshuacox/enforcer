@@ -37,20 +37,6 @@ This is ApacheBench, Version 2.3 <i>&lt;$Revision: 1879490 $&gt;</i><br>
 Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/<br>
 Licensed to The Apache Software Foundation, http://www.apache.org/<br>
 </p>
-<p>
-Completed 10000 requests
-Completed 20000 requests
-Completed 30000 requests
-Completed 40000 requests
-Completed 50000 requests
-Completed 60000 requests
-Completed 70000 requests
-Completed 80000 requests
-Completed 90000 requests
-Completed 100000 requests
-Finished 100000 requests
-</p>
-
 
 <table >
 <tr ><th colspan=2 bgcolor=white>Server Software:</th><td colspan=2 bgcolor=white>Apache/2.4.51</td></tr>
@@ -82,20 +68,6 @@ Nginx Results:
  Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/<br>
  Licensed to The Apache Software Foundation, http://www.apache.org/<br>
 </p>
-<p>
-Completed 10000 requests
-Completed 20000 requests
-Completed 30000 requests
-Completed 40000 requests
-Completed 50000 requests
-Completed 60000 requests
-Completed 70000 requests
-Completed 80000 requests
-Completed 90000 requests
-Completed 100000 requests
-Finished 100000 requests
-</p>
-
 
 <table >
 <tr ><th colspan=2 bgcolor=white>Server Software:</th><td colspan=2 bgcolor=white>nginx/1.21.3</td></tr>

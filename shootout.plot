@@ -5,7 +5,7 @@ set terminal png
 set output "shootout.png"
 
 #graph title
-set title "ab -n 1000 -c 50"
+set title "ab -n 100000 -c 100"
 
 #nicer aspect ratio for image size
 set size 1,0.7
