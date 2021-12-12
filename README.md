@@ -40,7 +40,7 @@ Licensed to The Apache Software Foundation, http://www.apache.org/<br>
 
 <table >
 <tr ><th colspan=2 bgcolor=white>Server Software:</th><td colspan=2 bgcolor=white>Apache/2.4.51</td></tr>
-<tr ><th colspan=2 bgcolor=white>Server Hostname:</th><td colspan=2 bgcolor=white>10.11.5.11</td></tr>
+<tr ><th colspan=2 bgcolor=white>Server Hostname:</th><td colspan=2 bgcolor=white>192.168.1.11</td></tr>
 <tr ><th colspan=2 bgcolor=white>Server Port:</th><td colspan=2 bgcolor=white>7080</td></tr>
 <tr ><th colspan=2 bgcolor=white>Document Path:</th><td colspan=2 bgcolor=white>/</td></tr>
 <tr ><th colspan=2 bgcolor=white>Document Length:</th><td colspan=2 bgcolor=white>203 bytes</td></tr>
@@ -71,7 +71,7 @@ Nginx Results:
 
 <table >
 <tr ><th colspan=2 bgcolor=white>Server Software:</th><td colspan=2 bgcolor=white>nginx/1.21.3</td></tr>
-<tr ><th colspan=2 bgcolor=white>Server Hostname:</th><td colspan=2 bgcolor=white>10.11.5.11</td></tr>
+<tr ><th colspan=2 bgcolor=white>Server Hostname:</th><td colspan=2 bgcolor=white>192.168.1.11</td></tr>
 <tr ><th colspan=2 bgcolor=white>Server Port:</th><td colspan=2 bgcolor=white>6080</td></tr>
 <tr ><th colspan=2 bgcolor=white>Document Path:</th><td colspan=2 bgcolor=white>/</td></tr>
 <tr ><th colspan=2 bgcolor=white>Document Length:</th><td colspan=2 bgcolor=white>169 bytes</td></tr>
